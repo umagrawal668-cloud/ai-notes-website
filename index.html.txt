@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Notes Hub</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-50">
+
+  <!-- HERO SECTION -->
+  <section class="text-center p-10 bg-blue-600 text-white">
+    <h1 class="text-4xl font-bold">AI-Generated Notes for Every Subject</h1>
+    <p class="mt-3 text-lg">Download clean, exam-focused notes created using AI.</p>
+  </section>
+
+  <!-- SUBJECTS GRID -->
+  <div class="grid grid-cols-2 md:grid-cols-3 gap-4 p-5">
+
+    <div class="p-5 bg-white shadow rounded-lg text-center font-semibold">Math</div>
+    <div class="p-5 bg-white shadow rounded-lg text-center font-semibold">Physics</div>
+    <div class="p-5 bg-white shadow rounded-lg text-center font-semibold">Chemistry</div>
+    <div class="p-5 bg-white shadow rounded-lg text-center font-semibold">Biology</div>
+    <div class="p-5 bg-white shadow rounded-lg text-center font-semibold">Computer Science</div>
+    <div class="p-5 bg-white shadow rounded-lg text-center font-semibold">History</div>
+
+  </div>
+
+  <!-- DOWNLOAD CTA -->
+  <section class="p-6 bg-gray-100 text-center">
+    <h2 class="text-2xl font-semibold">Download Full Notes Bundle</h2>
+    <p class="text-gray-600 mt-2">Get all subjects PDF notes in one place.</p>
+
+    <button class="mt-4 bg-green-600 text-white px-6 py-3 rounded-lg text-lg">
+      Buy for ₹49
+    </button>
+  </section>
+
+  <!-- AFFILIATE SECTION -->
+  <section class="p-6 border-t">
+    <h3 class="text-xl font-bold mb-2">Recommended Study Materials</h3>
+
+    <a href="#" class="underline text-blue-600 block">
+      📘 NCERT Booster Guide (Amazon Link)
+    </a>
+
+    <a href="#" class="underline text-blue-600 block mt-1">
+      📗 Class 12 PCM Notes Bundle (Affiliate)
+    </a>
+  </section>
+
+  <!-- GOOGLE AD PLACEHOLDER -->
+  <div class="ads bg-gray-200 h-24 flex justify-center items-center mt-6 text-gray-600">
+    Google Ad Here
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="mt-10 p-5 text-center text-gray-600">
+    © 2025 AI Notes Hub • All Rights Reserved
+  </footer>
+
+</body>
+</html>
